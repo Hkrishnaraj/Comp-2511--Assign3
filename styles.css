@@ -1,13 +1,43 @@
-p1, nav-item{
-                    font-size: 15px; 
-                }
-                
-                .square, p2
-                {
-                    width: 250px; 
-                    height: 250px; 
-                    padding: 10px; 
-                }
+head, body, footer
+{
+    background-color: #222629; 
+}
+p1, nav-item, {
+                    
+    font-size: 15px;
+/*    background-color: #05386B; */
+    color: #C5C6C7; 
+}
+h1, h2
+{
+   color: #86C232; 
+}
+
+p3
+{
+    font-size: 15px;
+     color: #86C232; 
+}
+
+p1
+{
+     color: #C5C6C7; 
+    font-size: 13px;
+}
+
+p2
+{
+     color: #C5C6C7; 
+    font-size: 11px;
+}
+
+.square
+    {
+         width: 250px; 
+        height: 250px; 
+        padding: 10px;
+       
+} 
 
 /*
                 p2:hover {
@@ -73,6 +103,10 @@ p1, nav-item{
 .dropdown-toggle {
   outline: 0;
 }
+
+
+
+
 
 /*
           
