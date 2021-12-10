@@ -1,8 +1,8 @@
-head, body, footer
+head, body, footer, .Hobbies
 {
     background-color: #222629; 
 }
-p1, nav-item, {
+nav-item, {
                     
     font-size: 15px;
 /*    background-color: #05386B; */
@@ -25,10 +25,17 @@ p1
     font-size: 13px;
 }
 
+p
+{
+    
+     color: #474B4F; 
+    font-size: 12px;
+}
+
 p2
 {
      color: #C5C6C7; 
-    font-size: 11px;
+    font-size: 13px;
 }
 
 .square
@@ -45,9 +52,11 @@ p2
                 }
 */
 
+/*
                 .square:hover {
                     transform: scale(1.1);
                 }
+*/
 
     
                 
@@ -104,6 +113,20 @@ p2
   outline: 0;
 }
 
+
+.bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
 
 
 
